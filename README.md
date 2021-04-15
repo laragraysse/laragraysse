@@ -45,3 +45,5 @@
   <a href="https://www.instagram.com/lara.graysse/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lara.graysse/"/></a>
 </p>
+
+<!-- A LOT OF THANKS TO https://github.com/iuricode AND HIS COLLABORATORS FOR THE ICONS AND PROFILE TEMPLATE FOR GITHUB -->
