@@ -1,5 +1,9 @@
 <img src="https://i.imgur.com/xREyLhg.png" min-width="400px" max-width="400px" width="500px" align="right" alt="Working Girl">
 
+
+
+---
+
 <h4> ABOUT ME 🙋‍♀️ </h4>
 <p align="left"> 
   My name is Lara and I'm a 20 years old girl who's trying to make part of this huge Web Development world.
