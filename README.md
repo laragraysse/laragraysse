@@ -8,7 +8,7 @@
 <p align="left"> 
   My name is Lara and I'm a 20 years old girl who's trying to make part of this huge Web Development world.
   <br>
-  My focus right now is to be able to build any kind of website, so everyday I spend a lot of my free time studying to reach this objective.
+  My focus right now is to be able to build any kind of website, so I spend a lot of my time studying to reach this objective.
 </p>
 
 <h4> HABILITIES 🚀 </h4>
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   
   what I work with:<br>
-  Visual Studio Code, Photoshop, Figma, Webpack, Git & Github.
+  Visual Studio Code, Figma & Github.
 </p>
 
 <h4> CONTACT ME </h4>
