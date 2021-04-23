@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/xREyLhg.png" min-width="400px" max-width="400px" width="500px" align="right" alt="Working Girl">
+<img src="https://i.imgur.com/K86WZoJ.png" min-width="400px" max-width="400px" width="500px" align="right" alt="Working Girl">
 
 
 
