@@ -21,13 +21,11 @@
   
   <br>
   
-  what I'm currently learning/practicing:<br>
+  what I'm learning:<br>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   
   what I work with:<br>
-  Visual Studio Code, Figma & Github.
+  Visual Studio Code.
 </p>
 
 <h4> CONTACT ME </h4>
