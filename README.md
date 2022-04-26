@@ -21,7 +21,7 @@
 
 <h4> GET IN TOUCH WITH ME 📲 </h4>
 <p align="left">
-  Since I'm a newbie in this area, I'm taking any opportunities for me to improve my knowledge so, If you need a simple presentation website, website design or if you   just want to connect and speak about this topics feel free to message me ⤵️
+  Since I'm a newbie in this area, I'm taking any opportunities for me to improve my knowledge so, If you need a simple website, website design or if you just want to   connect and speak about this topics feel free to message me ⤵️
 </p>
 
 <a href="mailto:laragraysse@outlook.com" target="_blank" alt="Email">
@@ -32,7 +32,7 @@
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
-<a href="https://www.instagram.com/graysse" alt="Instagram">
+<a href="https://www.instagram.com/lara.graysse" alt="Instagram">
 <img src="https://img.shields.io/badge/Instagram-db0477.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
 </a>
 
