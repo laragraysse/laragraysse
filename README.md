@@ -2,7 +2,7 @@
 <p> 
   Hey there, I'm Lara and I'm a 21yo mom who's addicted to learning 📚, eating 🍣 and playing games 🖱.
   <br>
-  Since I have a baby 👶🏽 to raise I decided to work as a freelancer so this way I can stay nearby and take care of him but, this is not the only motive that made me     choose the freelancer career. I really fell in love with freelancer's freedom and challenging path so, I wanted to give it a chance.
+  I fell in love with web development and design back in 2019 while I was studying it in my professional IT course in high school. Time has passed and I decided to take this topic seriously. I'm studying everyday and taking jobs as a freelancer not only to acquire experience but also because as a freelancer I have the opportunity to develop my sense of responsibility and my maturity, which are things that I need to evolve, because I was the spoiled mommy's baby until not so long ago 🤣
 </p>
 
 <img src="https://i.imgur.com/JPbb9cS.gif" align="right" height="300px" alt="Working Girl">
@@ -21,7 +21,7 @@
 
 <h4> GET IN TOUCH WITH ME 📲 </h4>
 <p align="left">
-  Since I'm a newbie in this area, I'm taking any opportunities for me to improve my knowledge so, If you need a simple website, website design or if you just want to   connect and speak about this topics feel free to message me ⤵️
+  I'm taking any opportunities for me to improve my knowledge so, If you need a simple website, website design or if you just want to connect and speak about this topics feel free to message me ⤵️
 </p>
 
 <a href="mailto:laragraysse@outlook.com" target="_blank" alt="Email">
