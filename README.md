@@ -21,7 +21,7 @@
 
 <h4> GET IN TOUCH WITH ME 📲 </h4>
 <p align="left">
-  I'm taking any opportunities for me to improve my knowledge so, <br> If you need a simple website, website design or if you just want to connect and speak about this topics feel free to message me ⤵️
+  I'm taking any opportunities for me to improve my knowledge so, If you need a simple website, website design or if you just want to connect and speak about this topics feel free to message me ⤵️
 </p>
 
 <a href="mailto:laragraysse@outlook.com" target="_blank" alt="Email">
