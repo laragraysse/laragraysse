@@ -1,8 +1,8 @@
 <h4> ABOUT ME 🙋🏽‍♀️👩🏽‍💻 </h4>
 <p> 
-  Hey there, I'm Lara and I'm a 21yo mom who's addicted to learning 📚, eating 🍣 and playing games 🖱.
-  <br>
-  I fell in love with web development and design back in 2019 while I was studying it in my professional IT course in high school. Time has passed and I decided to take this topic seriously. I'm studying everyday and taking jobs as a freelancer not only to acquire experience but also because as a freelancer I have the opportunity to develop my sense of responsibility and my maturity, plus I have enough freedom to work the way I like.
+  Hey there, I'm Lara and I'm a 22yo mom who's addicted to learning 📚, eating 🍣 and playing games 🖱.
+  <br><br>
+  I fell in love with web development and design back in 2019 while I was studying it in my professional IT course in high school. <br> I'm studying "by myself" to become a high level web designer and developer. My goal right now is to help entrepreneurs stand out online with beautiful, attractive and intuitive websites.
 </p>
 
 <img src="https://i.imgur.com/JPbb9cS.gif" align="right" height="300px" alt="Working Girl">
@@ -21,12 +21,8 @@
 
 <h4> GET IN TOUCH WITH ME 📲 </h4>
 <p align="left">
-  I'm taking any opportunities for me to improve my knowledge so, If you need a simple website, website design or if you just want to connect and speak about this topics feel free to message me ⤵️
+  I'm taking any opportunities for me to improve my knowledge so, If you need a one page, landing page or corporative website, or if you just want to connect and speak about this topic feel free to message me ⤵️
 </p>
-
-<a href="mailto:laragraysse@outlook.com" target="_blank" alt="Email">
-<img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-</a>
 
 <a href="https://api.whatsapp.com/send?phone=351931442298" alt="WhatsApp">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
