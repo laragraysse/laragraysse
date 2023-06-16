@@ -12,7 +12,7 @@
 </p>
 <br>
 
-<img src="https://i.imgur.com/JPbb9cS.gif" align="right" height="291px" alt="Dev Girl Working">
+<img src="https://i.imgur.com/JPbb9cS.gif" align="right" height="289px" alt="Dev Girl Working">
 
 <h4> HABILITIES 🚀 </h4>
 <p align="left">
@@ -29,7 +29,8 @@
 
 <h4> GET IN TOUCH WITH ME 📲 </h4>
 <p align="left">
-  I'm open to new projects so <b>if you need a landing page, a sales page, a links page, or even an institutional website</b>, or if you just want to connect and speak about this topic feel free to get in touch ⤵️
+  I'm open to new projects so <b>if you need a landing page, a sales page, a links page, <br>
+  or even an institutional website</b>, or if you just want to connect and speak about this topic feel free to get in touch ⤵️
 </p>
 
 <a href="https://laragraysse.com/links" alt="Lara's Website">
